@@ -17,7 +17,7 @@ highlighter: pygments
 ### content configuration ###
 title:       "Open CoMo - Columbia Open Data Hackathon"
 keywords:    "open data, columbia, missouri, open gov, como, hacking"
-description: "Open Data hackathon in Columbia, MO on November 13th-14th!"
+description: "Open Data hackathon in Columbia, MO on November 13th-15th!"
 source_link: "https://github.com/jakewins/opencomo-site"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
