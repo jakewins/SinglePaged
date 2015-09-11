@@ -1,6 +1,6 @@
 # Open CoMo Website
 
-This is the [Open CoMo](http://jakewins.github.io/opencomo-site/) website! Feel free to send pull requests - add a new data set, fix a typo, fix the design a bit? 
+This is the [Open CoMo](http://opencomo.org/) website! Feel free to send pull requests - add a new data set, fix a typo, fix the design a bit? 
 
 ## Modifying the site
 
@@ -14,7 +14,7 @@ If you are familiar with `git` and `jekyll`, you know the drill:
 
 ## Modifying the site online
 
-If you're not familiar with GitHub, `git` or `jekyll`, no worries! You can edit the website directly on github.
+If you're not familiar with GitHub, `git` or `jekyll`, no worries! You can edit the website right here on github.
 
 ### Step one - log in
 
