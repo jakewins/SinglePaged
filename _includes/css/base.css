@@ -71,6 +71,11 @@
 	h5 { font-size: 17px; line-height: 24px; }
 	h6 { font-size: 14px; line-height: 21px; }
 	.subheader { color: #777; }
+	.tron { 
+		font-weight: 700;
+		font-family: 'Montserrat', sans-serif;
+		font-size: 60px;
+	}
 
 	p { margin: 0 0 20px 0; }
 	p img { margin: 0; }
